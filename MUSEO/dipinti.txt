@@ -1,0 +1,42 @@
+101
+sala2
+ciccio
+1989
+leonardo da vinci
+olio
+grandissimo
+102
+sala3
+tizio a caso
+2018
+leonardo da vinci
+acquerello
+piccolissimo
+1012
+Sala Rossa
+Ciao
+2000
+Marco
+Olio su tela
+12x12
+1011
+Sala gialla
+Sisi
+2013
+Suca
+Cazzo su Tela
+13x24
+1013
+Sala grigia
+Dipinto
+1999
+IO
+Olio su tela
+156x10
+00123
+sala1
+ciao
+2009
+io
+olio su tela
+150x23
